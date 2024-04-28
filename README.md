@@ -3,7 +3,7 @@
 
 #### About Me:
 
-Python enthusiast with expertise in NumPy, Pandas, Matplotlib, Seaborn, MySQL, and DSA. Skilled in Flask, Streamlit for web development. Passionate about data narratives, detail-oriented problem-solving, and continuous growth. Open to exploring ML, cloud platforms for data analysis.
+Proficiency in HTML, CSS, JavaScript, MySQL, Bootstrap, and React.js involves mastering semantic markup, styling, interactivity, database querying, responsive design, and component-based architecture. These skills empower developers to create dynamic, user-friendly web applications with efficient data handling and interactive interfaces.
 
 #### Github Stats:
 ![Stats 3](https://github-readme-stats.vercel.app/api?username=Soyab1208)
